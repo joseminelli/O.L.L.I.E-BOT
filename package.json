@@ -1,6 +1,9 @@
 {
   "name": "music-bot",
   "version": "1.0.0",
+  "engines": {
+    "node": ">=16.9"
+  },
   "repository": "https://github.com/TannerGabriel/discord-music-bot.git",
   "description": "A simple discord music bot",
   "main": "index.js",
