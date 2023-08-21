@@ -150,4 +150,4 @@ client.on('interactionCreate', async interaction => {
     }
 });
 
-client.login("MTE0MzE5OTkxNDM4MjMyNzgyOA.Gufliz.R_HhpT5JUP_TtpRxIdSGyOmMlvkLgk9bD_Chuw");
+client.login(process.env.KEY);
